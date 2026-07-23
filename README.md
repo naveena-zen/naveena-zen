@@ -2,7 +2,7 @@
 
 # Hi, I'm Naveena 👋
 
-### Final-Year CSE Student · Backend & AI-Focused Software Engineer
+### Final-Year AI & DS Student · AI-Focused & Backend Software Engineer
 
 I build full-stack and AI-driven systems — from LLM-powered agents to workflow
 automation engines — and I'm looking for Software Engineering roles where I can
