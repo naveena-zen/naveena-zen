@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&pause=1000&color=2E9EF7&center=true&vCenter=true&width=600&lines=Hi%2C+I'm+Naveena+%F0%9F%91%8B;AI+%26+Data+Science+Engineer+in+the+Making;Building+Agentic+AI+%2B+Backend+Systems;Open+to+Software+Engineering+Roles" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&pause=1000&color=2E9EF7&center=true&vCenter=true&width=600&lines=Hi%2C+I'm+Naveena+%F0%9F%91%8B;AI+%26+Data+Science+Engineer+in+the+Making;Building+Agentic+AI+%2B+Backend+Systems;Open+to+Software+%26+AI+Engineering+Roles" alt="Typing SVG" />
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://your-portfolio-link.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/your-linkedin)
@@ -31,10 +31,6 @@ systems rather than notebooks alone.
 
 ## 🧰 Tech Stack
 
-<table>
-<tr>
-<td valign="top" width="50%">
-
 **Languages**
 <br/>
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
@@ -49,21 +45,10 @@ systems rather than notebooks alone.
 ![Express](https://img.shields.io/badge/Express.js-000000?style=flat-square&logo=express&logoColor=white)
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
 
-**Data & Infra**
-<br/>
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
-![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=flat-square&logo=prisma&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-
-</td>
-<td valign="top" width="50%">
-
 **Generative AI & Agentic Systems**
 <br/>
 ![LLM Agents](https://img.shields.io/badge/LLM_Agents-412991?style=flat-square&logo=openai&logoColor=white)
 ![RAG](https://img.shields.io/badge/RAG-4B8BBE?style=flat-square&logo=vectorworks&logoColor=white)
-![Groq](https://img.shields.io/badge/Groq-F55036?style=flat-square&logo=groq&logoColor=white)
 ![HuggingFace](https://img.shields.io/badge/HuggingFace_Transformers-FFD21E?style=flat-square&logo=huggingface&logoColor=black)
 ![pgvector](https://img.shields.io/badge/pgvector-4169E1?style=flat-square&logo=postgresql&logoColor=white)
 
@@ -73,14 +58,17 @@ systems rather than notebooks alone.
 ![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white)
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
 
+**Data & Infra**
+<br/>
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=flat-square&logo=prisma&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+
 **Frontend**
 <br/>
 ![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
 ![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
-
-</td>
-</tr>
-</table>
 
 ---
 
@@ -129,21 +117,26 @@ admin and end-user capabilities.
 
 ## 🎯 What I'm Looking For
 
-A **Software Engineering role** — backend, full-stack, or applied/agentic AI — where
-I can work on systems that matter at production scale, contribute to open-source
-along the way, and keep building things that don't stay in a notebook.
+Roles where **AI and backend engineering meet** — I'm open to:
+- **Software Engineer / Backend Engineer** roles building production systems
+- **AI/ML Engineer** roles working on applied AI, LLM applications, or agentic systems
+- **Data Science/Analyst** roles where I can apply my AI & DS coursework directly
+
+Alongside that, I want to keep contributing to **open-source** and building through **hackathons**.
 
 ---
 
+## 📊 GitHub Stats
+
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=naveena-zen&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&rank_icon=percentile" alt="GitHub Stats" height="165" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=naveena-zen&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" height="165" />
+<img src="https://github-readme-stats.vercel.app/api?username=naveena-zen&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=1800" alt="GitHub Stats" height="165" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=naveena-zen&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=1800" alt="Top Languages" height="165" />
 
 <img src="https://streak-stats.demolab.com?user=naveena-zen&theme=tokyonight&hide_border=true" alt="GitHub Streak" width="70%" />
 
 <br/><br/>
 
-<sub>💬 Open to Software Engineering roles, open-source collaboration, and interesting backend/agentic AI problems.</sub>
+<sub>💬 Open to Software Engineering, AI/ML, and Data Science opportunities — and interesting backend/agentic AI problems.</sub>
 
 </div>
