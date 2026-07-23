@@ -93,3 +93,57 @@ anomalies and retrieves similar past incidents via **RAG** (`pgvector` HNSW inde
 `sentence-transformers` embeddings). Phase 2 is a **deterministic Python policy gate**
 that alone decides whether to auto-mitigate or escalate to a human analyst — the LLM
 never gets direct write access to infrastructure.
+`Agentic AI` · `RAG` · `FastAPI` · `PostgreSQL/pgvector` · `React` · `Docker`
+
+### ⚙️ [Orchestrix](https://github.com/naveena-zen/orchestrix) — Full-Stack Workflow Automation Engine
+A rule-driven workflow platform built for a full-stack engineering challenge —
+supports approval pipelines, conditional routing, and loop-safe execution via a
+**custom tokenizer + recursive-descent parser** written to evaluate rules without `eval()`.
+`React` · `Node.js/Express` · `PostgreSQL` · `Prisma`
+
+### 📄 [Research Abstract Summarizer](https://github.com/naveena-zen/research-abstract-summarizer) — Applied NLP
+A transformer-based summarization tool (`facebook/bart-large-cnn`) for condensing
+research abstracts, wrapped in a Gradio interface with login/session handling.
+`Python` · `Transformers` · `Gradio`
+
+### ✋ [Neon Hand Reactor](https://github.com/naveena-zen/Neon-hand-reactor) — Real-Time Computer Vision
+A gesture-driven visual engine that tracks dual-hand landmarks via MediaPipe/OpenCV
+to generate real-time particle, laser, and portal effects.
+`Python` · `OpenCV` · `MediaPipe`
+
+### 🌍 [Global Time Coordination System](https://github.com/naveena-zen/global-time-coordination-system) — Cross-Platform Mobile
+A Flutter application for UTC-based timezone computation and real-time clock sync,
+with integrated weather data and a modular architecture.
+`Flutter` · `Dart` · `C++`
+
+### 🍲 [Recipe Compendium](https://github.com/naveena-zen/Recipe-compendium) — Role-Based CRUD Platform
+A PHP–MySQL recipe management system with secure, role-based access separating
+admin and end-user capabilities.
+`PHP` · `MySQL`
+
+---
+
+## 📚 Currently Learning
+
+`Advanced DSA for interviews` · `Backend system design (caching, queues, scale)` · `Cloud fundamentals (AWS/Azure)` · `CI/CD & DevOps practices`
+
+## 🎯 What I'm Looking For
+
+A **Software Engineering role** — backend, full-stack, or applied/agentic AI — where
+I can work on systems that matter at production scale, contribute to open-source
+along the way, and keep building things that don't stay in a notebook.
+
+---
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=naveena-zen&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&rank_icon=percentile" alt="GitHub Stats" height="165" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=naveena-zen&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" height="165" />
+
+<img src="https://streak-stats.demolab.com?user=naveena-zen&theme=tokyonight&hide_border=true" alt="GitHub Streak" width="70%" />
+
+<br/><br/>
+
+<sub>💬 Open to Software Engineering roles, open-source collaboration, and interesting backend/agentic AI problems.</sub>
+
+</div>
