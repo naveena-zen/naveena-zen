@@ -29,7 +29,7 @@ systems rather than notebooks alone.
 
 ---
 
-## 🧰 Tech Stack
+## Tech Stack
 
 **Languages**
 <br/>
