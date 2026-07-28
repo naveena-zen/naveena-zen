@@ -1,8 +1,6 @@
 <div align="center">
 
-# Hi, I'm Naveena 👋
-
-### AI & Data Science Engineer in the Making · Building Agentic AI + Backend Systems
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=2E9EF7&center=true&vCenter=true&width=800&height=50&lines=Hi%2C+I'm+Naveena+%F0%9F%91%8B;AI+%26+Data+Science+Engineer+in+the+Making;Building+Agentic+AI+%2B+Backend+Systems;Open+to+Software+%26+AI+Engineering+Roles" alt="Typing SVG" />
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://your-portfolio-link.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/your-linkedin)
