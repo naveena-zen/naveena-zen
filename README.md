@@ -1,6 +1,8 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&pause=1000&color=2E9EF7&center=true&vCenter=true&width=600&lines=Hi%2C+I'm+Naveena+%F0%9F%91%8B;AI+%26+Data+Science+Engineer+in+the+Making;Building+Agentic+AI+%2B+Backend+Systems;Open+to+Software+%26+AI+Engineering+Roles" alt="Typing SVG" />
+# Hi, I'm Naveena 👋
+
+### AI & Data Science Engineer in the Making · Building Agentic AI + Backend Systems
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://your-portfolio-link.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/your-linkedin)
@@ -130,8 +132,8 @@ Alongside that, I want to keep contributing to **open-source** and building thro
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=naveena-zen&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=1800" alt="GitHub Stats" height="165" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=naveena-zen&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=1800" alt="Top Languages" height="165" />
+<img src="https://github-readme-stats.vercel.app/api?username=naveena-zen&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" height="165" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=naveena-zen&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" height="165" />
 
 <img src="https://streak-stats.demolab.com?user=naveena-zen&theme=tokyonight&hide_border=true" alt="GitHub Streak" width="70%" />
 
