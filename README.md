@@ -10,7 +10,7 @@
 
 <br/>
 
-## 🧭 About Me
+## About Me
 
 I'm a final-year **AI & Data Science** engineering student who builds systems rather
 than tutorials — from an **agentic LLM system** that investigates security incidents
@@ -72,7 +72,7 @@ systems rather than notebooks alone.
 
 ---
 
-## 🚀 Featured Work
+## Featured Work
 
 ### 🛡️ [AegisGuard](https://github.com/naveena-zen/AegisGuard) — Agentic AI Security Investigation System
 An autonomous incident-response system built around a **two-phase agentic architecture**.
