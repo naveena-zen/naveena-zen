@@ -1,10 +1,6 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=2E9EF7&center=true&vCenter=true&width=800&height=50&lines=Hi%2C+I'm+Naveena+%F0%9F%91%8B;AI+%26+Data+Science+Engineer+in+the+Making;Building+Agentic+AI+%2B+Backend+Systems;Open+to+Software+%26+AI+Engineering+Roles" alt="Typing SVG" />
-
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://your-portfolio-link.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/your-linkedin)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your.email@example.com)
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=2E9EF7&center=true&vCenter=true&width=800&height=50&lines=Hi%2C+I'm+Naveena+%F0%9F%91%8B;AI+%26+Data+Science+Engineer;Building+Agentic+AI+%2B+Backend+Systems;Open+to+Software+%26+AI+Engineering+Roles" alt="Typing SVG" />
 
 </div>
 
@@ -69,6 +65,15 @@ systems rather than notebooks alone.
 <br/>
 ![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
 ![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
+
+---
+
+## 📜 Certifications
+
+![NPTEL](https://img.shields.io/badge/NPTEL-Deep_Learning_(Elite)-2E9EF7?style=for-the-badge&logo=googlescholar&logoColor=white)
+![NPTEL](https://img.shields.io/badge/NPTEL-Python_for_Data_Science_(Elite)-2E9EF7?style=for-the-badge&logo=googlescholar&logoColor=white)
+![NPTEL](https://img.shields.io/badge/NPTEL-Machine_Learning-2E9EF7?style=for-the-badge&logo=googlescholar&logoColor=white)
+![Infosys](https://img.shields.io/badge/Infosys-Data_Visualization_with_Tableau-1A73E8?style=for-the-badge&logo=tableau&logoColor=white)
 
 ---
 
