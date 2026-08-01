@@ -126,7 +126,7 @@ Alongside that, I want to keep contributing to **open-source** and building thro
 
 ---
 
-## 📊 GitHub Stats
+## GitHub Stats
 
 <div align="center">
 
