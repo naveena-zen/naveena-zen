@@ -126,9 +126,6 @@ Alongside that, I want to keep contributing to **open-source** and building thro
 
 ---
 
-## GitHub Stats
-
-
 <sub>💬 Open to Software Engineering, AI/ML, and Data Science opportunities — and interesting backend/agentic AI problems.</sub>
 
 </div>
