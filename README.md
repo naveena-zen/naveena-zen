@@ -69,12 +69,13 @@ systems rather than notebooks alone.
 ---
 
 ## 📜 Certifications
-
+ 
 ![NPTEL](https://img.shields.io/badge/NPTEL-Deep_Learning_(Elite)-2E9EF7?style=for-the-badge&logo=googlescholar&logoColor=white)
 ![NPTEL](https://img.shields.io/badge/NPTEL-Python_for_Data_Science_(Elite)-2E9EF7?style=for-the-badge&logo=googlescholar&logoColor=white)
 ![NPTEL](https://img.shields.io/badge/NPTEL-Machine_Learning-2E9EF7?style=for-the-badge&logo=googlescholar&logoColor=white)
 ![Infosys](https://img.shields.io/badge/Infosys-Data_Visualization_with_Tableau-1A73E8?style=for-the-badge&logo=tableau&logoColor=white)
-
+![Cisco](https://img.shields.io/badge/Cisco-Junior_Cybersecurity_Analyst-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white)
+![Infosys](https://img.shields.io/badge/Infosys-Applied_Generative_AI-1A73E8?style=for-the-badge&logo=openai&logoColor=white)
 ---
 
 ## Featured Work
