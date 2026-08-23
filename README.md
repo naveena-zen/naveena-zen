@@ -69,13 +69,16 @@ systems rather than notebooks alone.
 ---
 
 ## 📜 Certifications
- 
-![NPTEL](https://img.shields.io/badge/NPTEL-Deep_Learning_(Elite)-2E9EF7?style=for-the-badge&logo=googlescholar&logoColor=white)
-![NPTEL](https://img.shields.io/badge/NPTEL-Python_for_Data_Science_(Elite)-2E9EF7?style=for-the-badge&logo=googlescholar&logoColor=white)
-![NPTEL](https://img.shields.io/badge/NPTEL-Machine_Learning-2E9EF7?style=for-the-badge&logo=googlescholar&logoColor=white)
+
+![Google Cloud](https://img.shields.io/badge/Google_Cloud-Cloud_Digital_Leader_Track-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white)
+![NPTEL](https://img.shields.io/badge/NPTEL-Deep_Learning_(Elite)-2E9EF7?style=for-the-badge&logo=readthedocs&logoColor=white)
+![NPTEL](https://img.shields.io/badge/NPTEL-Python_for_Data_Science_(Elite)-2E9EF7?style=for-the-badge&logo=readthedocs&logoColor=white)
+![NPTEL](https://img.shields.io/badge/NPTEL-Machine_Learning-2E9EF7?style=for-the-badge&logo=readthedocs&logoColor=white)
 ![Infosys](https://img.shields.io/badge/Infosys-Data_Visualization_with_Tableau-1A73E8?style=for-the-badge&logo=tableau&logoColor=white)
 ![Cisco](https://img.shields.io/badge/Cisco-Junior_Cybersecurity_Analyst-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white)
 ![Infosys](https://img.shields.io/badge/Infosys-Applied_Generative_AI-1A73E8?style=for-the-badge&logo=openai&logoColor=white)
+
+<sub>Google Cloud Career Launchpad — Cloud Digital Leader Track · Issued Aug 2024 · No expiration</sub>
 
 ---
 
@@ -120,7 +123,8 @@ admin and end-user capabilities.
 
 ## 📚 Currently Learning
 
-`Advanced DSA for interviews` · `Backend system design (caching, queues, scale)` · `Cloud fundamentals (AWS/Azure)` · `CI/CD & DevOps practices`
+`Advanced DSA for interviews` 
+`Backend system design (caching, queues, scale)` · `Cloud fundamentals (AWS/Azure)` · `CI/CD & DevOps practices`
 
 ## 🎯 What I'm Looking For
 
@@ -132,6 +136,8 @@ Roles where **AI and backend engineering meet** — I'm open to:
 Alongside that, I want to keep contributing to **open-source** and building through **hackathons**.
 
 ---
+
+<div align="center">
 
 <sub>💬 Open to Software Engineering, AI/ML, and Data Science opportunities — and interesting backend/agentic AI problems.</sub>
 
