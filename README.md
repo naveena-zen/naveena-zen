@@ -121,8 +121,7 @@ admin and end-user capabilities.
 
 ## 📚 Currently Learning
 
-`Advanced DSA for interviews` 
-`Backend system design (caching, queues, scale)` · `Cloud fundamentals (AWS/Azure)` · `CI/CD & DevOps practices`
+`Java with DSA for interviews` . `Backend system design (caching, queues, scale)` · `Cloud fundamentals (AWS/Azure)` · `CI/CD & DevOps practices`
 
 ## 🎯 What I'm Looking For
 
