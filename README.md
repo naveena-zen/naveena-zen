@@ -108,9 +108,7 @@ with integrated weather data and a modular architecture.
 `Flutter` · `Dart` · `C++`
 
 ### 🍲 [Recipe Compendium](https://github.com/naveena-zen/Recipe-compendium) — Role-Based CRUD Platform
-A PHP–MySQL recipe management system with secure, role-based access separating
-admin and end-user capabilities.
-`PHP` · `MySQL`
+
 
 ---
 
