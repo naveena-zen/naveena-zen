@@ -107,9 +107,6 @@ A Flutter application for UTC-based timezone computation and real-time clock syn
 with integrated weather data and a modular architecture.
 `Flutter` · `Dart` · `C++`
 
-### 🍲 [Recipe Compendium](https://github.com/naveena-zen/Recipe-compendium) — Role-Based CRUD Platform
-
-
 ---
 
 ## 📚 Currently Learning
