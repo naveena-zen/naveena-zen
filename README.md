@@ -102,8 +102,6 @@ A transformer-based summarization tool (`facebook/bart-large-cnn`) for condensin
 research abstracts, wrapped in a Gradio interface with login/session handling.
 `Python` · `Transformers` · `Gradio`
 
-### 🌍 [Global Time Coordination System](https://github.com/naveena-zen/global-time-coordination-system) — Cross-Platform Mobile
-
 ---
 
 ## 📚 Currently Learning
