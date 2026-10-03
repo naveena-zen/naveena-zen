@@ -103,9 +103,6 @@ research abstracts, wrapped in a Gradio interface with login/session handling.
 `Python` · `Transformers` · `Gradio`
 
 ### 🌍 [Global Time Coordination System](https://github.com/naveena-zen/global-time-coordination-system) — Cross-Platform Mobile
-A Flutter application for UTC-based timezone computation and real-time clock sync,
-with integrated weather data and a modular architecture.
-
 
 ---
 
