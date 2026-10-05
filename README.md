@@ -100,7 +100,7 @@ supports approval pipelines, conditional routing, and loop-safe execution via a
 ### 📄 [Research Abstract Summarizer](https://github.com/naveena-zen/research-abstract-summarizer) — Applied NLP
 A transformer-based summarization tool (`facebook/bart-large-cnn`) for condensing
 research abstracts, wrapped in a Gradio interface with login/session handling.
-`Python` · `Transformers` · `Gradio`
+
 
 ---
 
