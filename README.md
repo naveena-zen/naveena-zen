@@ -94,8 +94,6 @@ A rule-driven workflow platform built for a full-stack engineering challenge —
 supports approval pipelines, conditional routing, and loop-safe execution via a
 **custom tokenizer + recursive-descent parser** written to evaluate rules without `eval()`.
 `React` · `Node.js/Express` · `PostgreSQL` · `Prisma`
-
-### 📄 [Research Abstract Summarizer](https://github.com/naveena-zen/research-abstract-summarizer) — Applied NLP
 A transformer-based summarization tool (`facebook/bart-large-cnn`) for condensing
 research abstracts, wrapped in a Gradio interface with login/session handling.
 
