@@ -86,9 +86,7 @@ systems rather than notebooks alone.
 An autonomous incident-response system built around a **two-phase agentic architecture**.
 Phase 1 is a read-only LLM tool-calling loop (Groq/Llama 3) that investigates telemetry
 anomalies and retrieves similar past incidents via **RAG** (`pgvector` HNSW index +
-`sentence-transformers` embeddings). Phase 2 is a **deterministic Python policy gate**
-that alone decides whether to auto-mitigate or escalate to a human analyst — the LLM
-never gets direct write access to infrastructure.
+`sentence-transformers` embeddings). 
 `Agentic AI` · `RAG` · `FastAPI` · `PostgreSQL/pgvector` · `React` · `Docker`
 
 ### ⚙️ [Orchestrix](https://github.com/naveena-zen/orchestrix) — Full-Stack Workflow Automation Engine
