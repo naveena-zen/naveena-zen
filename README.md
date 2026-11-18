@@ -68,7 +68,7 @@ systems rather than notebooks alone.
 
 ---
 
-## 📜 Certifications
+## Certifications
 
 ![Google Cloud](https://img.shields.io/badge/Google_Cloud-Cloud_Digital_Leader_Track-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white)
 ![NPTEL](https://img.shields.io/badge/NPTEL-Deep_Learning_(Elite)-2E9EF7?style=for-the-badge&logo=readthedocs&logoColor=white)
